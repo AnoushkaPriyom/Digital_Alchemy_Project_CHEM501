@@ -2,5 +2,5 @@
 CHEM501 – Digital Alchemy Project
 
 Group members names:
-Anoushka Priyom
+Anoushka Priyom,
 Laura Kownacka
